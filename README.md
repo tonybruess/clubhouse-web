@@ -6,7 +6,7 @@ Clubhouse uses agora.io to handle real time audio.
 
 ### https://clubhouseapi.com/api/login ??
 
-Sadly I forgot to save the endpoints that are used to login.
+Sadly I forgot to save the exact endpoint names that are used to login. Pls help me out here.
 
 You post your phone number to this endpoint and it texts you a code.
 
