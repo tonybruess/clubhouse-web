@@ -15,7 +15,6 @@ export default function Home({}) {
         <title>{siteTitle}</title>
       </Head>
       <section>
-        <p>Elon Musk</p>
         <Agora />
       </section>
     </Layout>
